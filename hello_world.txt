@@ -1,1 +1,2 @@
 Hello Odin
+Consistency is the key!
